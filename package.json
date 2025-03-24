@@ -1,0 +1,26 @@
+{
+  "name": "minecord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankush-Shukla/Minecord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ankush-Shukla/Minecord/issues"
+  },
+  "homepage": "https://github.com/Ankush-Shukla/Minecord#readme",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
